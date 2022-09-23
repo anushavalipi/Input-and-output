@@ -1,0 +1,4 @@
+code:
+
+a=int(input())
+print(a)
