@@ -1,0 +1,4 @@
+code:
+
+a=input()
+print(ord(a))
